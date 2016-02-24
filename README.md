@@ -4,4 +4,4 @@ This is an old school project made with Java, featuring a labyrinth game with ra
 
 I did this project during my early studies, so the code is messy and includes finnish words.
 
-Only sources and pictures available at the moment.
+Only source code and images available at the moment.
